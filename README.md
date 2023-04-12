@@ -16,7 +16,8 @@ En la cultura popular, los dinosaurios han sido representados de muchas maneras,
 
 <img src= "https://www.gaceta.unam.mx/wp-content/uploads/2020/06/dinsdes.jpg" width="500">
 
-> _*Aguilar, F. G. (2020, 24 julio). Dinosaurios: las pruebas de su vida en la Tierra. Gaceta UNAM*._ https://www.gaceta.unam.mx/dinosaurios-las-pruebas-de-su-vida-en-la-tierra/
+> _*Aguilar, F. G. (2020, 24 julio). Dinosaurios: las pruebas de su vida en la Tierra. Gaceta UNAM*._ \
+[Gaceta UNAM](https://www.gaceta.unam.mx/dinosaurios-las-pruebas-de-su-vida-en-la-tierra) 
 
 ## **Tipos de Dinosurios**  
 Los dinosuarios se clasifican de acuerdo a la estructura de la cadera: Cadera de lagarto y Cadera de Ave. \
