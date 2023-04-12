@@ -20,7 +20,7 @@ En la cultura popular, los dinosaurios han sido representados de muchas maneras,
 
 ## **Tipos de Dinosurios**  
 Los dinosuarios se clasifican de acuerdo a la estructura de la cadera: Cadera de lagarto y Cadera de Ave. \
-Algunos especímenes: \
+Algunos especímenes: 
 
 ### Saurisquios  
 1. **Arqueopterix**
