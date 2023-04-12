@@ -36,7 +36,7 @@ Algunos especímenes: \
 4. **Anquilosaurio**
 5. **Apatosaurio**
  
-![](tipos.PNG)
+<img src= "tipos.JPG" width="500">
  
 ***La informacion de este articulo fue tomada mayormente de la pagina:***
 [Dinosaurios](https://www.revista.unam.mx/vol.2/num4/sabias1/tipos.html)
